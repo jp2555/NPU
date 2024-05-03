@@ -1,0 +1,2 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: numpy in /global/u1/j/jing/.local/perlmutter/tensorflow2.9.0/lib/python3.9/site-packages (1.19.5)
