@@ -1,1 +1,6 @@
+scripts/IBU.ipynb
+scripts/1.20
+scripts/NPU.ipynb
+scripts/NeuralPosteriorUnfolding_phys_jayDataset.ipynb
+scripts/*.npz
 scripts/__pycache__
